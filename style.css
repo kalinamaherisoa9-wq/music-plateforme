@@ -10,9 +10,10 @@ body {
 }
 
 :root {
-    --primary-color : #001d39;
-    --second-color : #0a4174;
-    --third-color : #49769f;
-    --forth-color : #7bbde8;
+    --primary-color: #001d39;
+    --second-color: #0a4174;
+    --third-color: #49769f;
+    --forth-color: #7bbde8;
     --fifth-color: #bdd8e9;
 }
+
